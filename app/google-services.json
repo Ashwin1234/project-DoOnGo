@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768388916043",
+    "firebase_url": "https://doongo-62fd3.firebaseio.com",
+    "project_id": "doongo-62fd3",
+    "storage_bucket": "doongo-62fd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768388916043:android:4326b7128aa6e8d8",
+        "android_client_info": {
+          "package_name": "com.example.ashwinb.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768388916043-pf9sjpssaaadt90b6fiqkb518f110vc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashwinb.myapplication",
+            "certificate_hash": "a889d640ba7fa4ea034a1b77e68c688ed254e624"
+          }
+        },
+        {
+          "client_id": "768388916043-srq3njb0vh2bm1mvdvd7asrrolfk1cmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk1Pj0jv52-zji4KIQm-I2oOpK4qCD4oQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768388916043-srq3njb0vh2bm1mvdvd7asrrolfk1cmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
